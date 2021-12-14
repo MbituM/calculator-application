@@ -1,0 +1,16 @@
+C:\Users\john9\source\repos\calc\calc\bin\Debug\net5.0-windows\calc.exe
+C:\Users\john9\source\repos\calc\calc\bin\Debug\net5.0-windows\calc.deps.json
+C:\Users\john9\source\repos\calc\calc\bin\Debug\net5.0-windows\calc.runtimeconfig.json
+C:\Users\john9\source\repos\calc\calc\bin\Debug\net5.0-windows\calc.runtimeconfig.dev.json
+C:\Users\john9\source\repos\calc\calc\bin\Debug\net5.0-windows\calc.dll
+C:\Users\john9\source\repos\calc\calc\bin\Debug\net5.0-windows\ref\calc.dll
+C:\Users\john9\source\repos\calc\calc\bin\Debug\net5.0-windows\calc.pdb
+C:\Users\john9\source\repos\calc\calc\obj\Debug\net5.0-windows\calc.vbproj.AssemblyReference.cache
+C:\Users\john9\source\repos\calc\calc\obj\Debug\net5.0-windows\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john9\source\repos\calc\calc\obj\Debug\net5.0-windows\calc.AssemblyInfoInputs.cache
+C:\Users\john9\source\repos\calc\calc\obj\Debug\net5.0-windows\calc.AssemblyInfo.vb
+C:\Users\john9\source\repos\calc\calc\obj\Debug\net5.0-windows\calc.vbproj.CoreCompileInputs.cache
+C:\Users\john9\source\repos\calc\calc\obj\Debug\net5.0-windows\calc.dll
+C:\Users\john9\source\repos\calc\calc\obj\Debug\net5.0-windows\ref\calc.dll
+C:\Users\john9\source\repos\calc\calc\obj\Debug\net5.0-windows\calc.pdb
+C:\Users\john9\source\repos\calc\calc\obj\Debug\net5.0-windows\calc.genruntimeconfig.cache
